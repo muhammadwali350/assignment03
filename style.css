@@ -1,0 +1,197 @@
+body, html { 
+    height: 100%;
+    margin: 0;
+}
+.q{
+    color: blueviolet;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+}
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.an{
+    display: block;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+/* Now index.html css end */
+/* Registration css start */
+.back-btn{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.image{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+.container{
+    margin-left: 10px;
+    display: grid;
+    
+}
+
+h2{
+    text-align: center;
+}
+
+.form-group {
+    margin-left: 150px;
+}
+/* --------------- */
+
+#first-name{
+    margin-left: 145px;
+    padding: 2px;
+}
+/* --------------- */
+
+#last-name{
+    margin-left: 150px;
+    padding: 2px;
+}
+/* ------------------- */
+
+#date-of-birth{
+    margin-left: 125px;
+}
+/* -------------------- */
+
+#email-id{
+    margin-left: 168px;
+}
+/* ------------------- */
+
+#mob-num{
+    margin-left: 105px;
+}
+/* ------------- */
+.gender{
+    display: inline;
+    justify-content: left;
+    font-size: 15px;
+    margin-left: 180px;
+    
+}
+/* ------------------------- */
+.Add{
+    display: flex;
+    justify-content: left;
+    gap: 170px;
+}
+.Add .inAdd{
+    margin-top: 20px;
+}
+.Add .label-8{
+    margin-left: 150px;
+}
+
+.label-8{
+    margin-top: 20px;
+}
+/* ---------------------- */
+.city{
+    display: flex;
+    justify-content: left;
+    gap: 205px;
+}
+.city .label-9{
+    margin-left: 150px;
+}
+/* ------------------- */
+.pin{
+    
+    display: flex;
+    justify-content: left;
+    gap: 168px;
+}
+.label-10{
+    margin-left: 150px;
+}
+/* -------------------- */
+.state{
+    display: flex;
+    justify-content: left;
+    gap: 195px;
+}
+.label-11{
+    margin-left: 150px;
+}
+/* -------------------- */
+.country{
+    display: flex;
+    justify-content: left;
+    gap: 164px;
+}
+.label-12{
+    margin-left: 150px;
+}
+/* --------------------- */
+.label-13{
+    margin-left: 150px;
+}
+.label-14{
+    margin-left: 170px;
+}
+.label-18{
+    margin-left: 390px;
+}
+/* ----------------------- */
+.label-19{
+    margin-top: 10px;
+    margin-left: 150px;
+}
+.qualific{
+    margin-top: 10px;
+    display: flex;
+    justify-content: left;
+    gap: 115px;
+}
+.bottom{
+    margin-left: 650px;
+}
+/* --------------------- */
+.label-20{
+    margin-left: 150px;
+}
+.label-21{
+    margin-left: 150px;
+}
+.select{
+    margin-left: 390px;
+}
+.upload{
+    margin-left: 150px;
+}
+.img{
+    margin-left: 390px;
+}
+.para{
+    margin-left: 150px;
+    font-size: 15px;
+}
+.subres{
+    display: flex;
+    justify-content: center;
+}
+/*---now sign up end--- */
+/*--log in css start-- */
+.center{
+    display: block;
+    text-align: center;
+}
+.btn{
+    margin-top: 20px;
+    display: block;
+    text-align: center;
+}
